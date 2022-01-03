@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaushikselvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikselvaraju" /> </p>
 
-- 🔭 I’m currently working on [Crypto Dashboard](https://crypto-dash-board.netlify.app/)
+- 🔭 I’m currently working on [Weather Application](https://weather-bot.netlify.app/)
 
 - 🌱 I’m currently learning **React Js and Node Js**
 
