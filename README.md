@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React Js and Node Js**
 
 - 📫 Reach me : **kaushikselvaraju7@gmail.com**
-
+<br>
 <p align="center">
 </p>
 
