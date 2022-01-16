@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Kaushik Selvaraju</h1>
 <h3 align="center">A passionate Web and Software developer</h3>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaushikselvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikselvaraju" /> </p>
 
 - 🔭 I’m currently working on [Weather Application](https://weather-bot.netlify.app/)
