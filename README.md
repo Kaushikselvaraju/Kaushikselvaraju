@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Weather Application](https://weather-bot.netlify.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Snowflake**
 
 - 📫 Reach me : **kaushikselvaraju7@gmail.com** 
 
