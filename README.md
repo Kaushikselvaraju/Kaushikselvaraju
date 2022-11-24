@@ -11,7 +11,7 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 - 🔭 I’m currently working on Snowflake
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Dockers and Kubernetes  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
