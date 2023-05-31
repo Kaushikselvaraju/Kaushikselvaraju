@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width = 28px>, I'm Kaushik Selvaraju</h1> 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaushikselvaraju&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikselvaraju" /> </p>
 
